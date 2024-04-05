@@ -25,7 +25,6 @@ const Header = () => {
      </Menu>
      <Outlet/>
     </>
-   
   )
 };
 export default Header;
